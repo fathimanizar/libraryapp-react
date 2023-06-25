@@ -1,0 +1,40 @@
+
+.nav
+{
+    /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=eec608&c2=cb2d2d&gt=l&gd=dbb
+*/
+/* background: #EEC608;
+background: linear-gradient(0deg, #EEC608, #CB2D2D); */
+/*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=f7f7f7&c2=eb9f42&gt=l&gd=dtl
+*/
+background: #F7F7F7;
+background: linear-gradient(135deg, #F7F7F7, #EB9F42);
+
+}
+.booktable
+{
+
+
+background: #F0D5B3;
+background: -webkit-linear-gradient(top left, #F0D5B3, #421602);
+background: -moz-linear-gradient(top left, #F0D5B3, #421602);
+background: linear-gradient(to bottom right, #F0D5B3, #4216021b);
+}
+.addtable
+{
+    background: #F7F7F7;
+    background: linear-gradient(135deg, #F7F7F7, #EB9F42);
+    /* background: #F8F8FC;
+background: -webkit-linear-gradient(top left, #4216021b, #0e050098);
+background: -moz-linear-gradient(top left, #4216021b, #0e05006d);
+background: linear-gradient(to bottom right, #42160263, #0b0b0a71); */
+color:#2e1001;
+}
+.active
+{
+    background-color: #dcb88c;
+}
